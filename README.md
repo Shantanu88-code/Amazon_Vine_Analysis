@@ -32,3 +32,7 @@ As mentioned above there were 31,939 five star reviews out of which, 133 were vi
 
 There were 39.82% vine reviews and 51.62% non-vine reviews.
 
+# Summary:
+
+To summarize, based on results, there is no positivity bias for reviews in the Vine program. This is because the percentage of 5 stars Vine reviews was lower than the percentage of 5 stars non-Vine reviews. 
+
