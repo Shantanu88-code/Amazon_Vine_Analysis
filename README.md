@@ -22,7 +22,7 @@ There were a total of 61,948 reviews on sports products. Out of those, only 334 
 
 # How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-As mentioned above there were 32,804 five star reviews out of which, 133 were vine reviews and a significant 31,806 were non-vine.
+As mentioned above there were 31,939 five star reviews out of which, 133 were vine reviews and a significant 31,806 were non-vine.
 
 <img width="666" alt="five-paid-unpaid" src="https://user-images.githubusercontent.com/86980240/146652463-cbaf547c-ceca-4793-9499-4f53d034ae0a.png">
 
