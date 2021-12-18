@@ -9,25 +9,26 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 We first filter our dataset with total votes equal to or greater than 20
 
-<img width="423" alt="review20" src="https://user-images.githubusercontent.com/86980240/146649868-4bffe932-080b-4211-899c-1f35d801b531.png">
+<img width="524" alt="review20" src="https://user-images.githubusercontent.com/86980240/146652453-8beeabb7-df31-415d-bec8-8793589bbac5.png">
 
 After we transform filtered data further we find following outcomes.
 
 # How many Vine reviews and non-Vine reviews were there?
 
-<img width="869" alt="vine_nonvine" src="https://user-images.githubusercontent.com/86980240/146649956-0b2a3066-2166-4592-afd5-0c9fdb555c6b.png">
+<img width="615" alt="total1st" src="https://user-images.githubusercontent.com/86980240/146652411-3b12c700-c53e-4829-afbe-7dde7553a0f8.png">
+<img width="562" alt="vine_nonvine" src="https://user-images.githubusercontent.com/86980240/146652430-f126a42a-57ca-4eb7-9c24-ab2b0af71af7.png">
 
 There were a total of 61,948 reviews on sports products. Out of those, only 334 were vine reviews and 61,614 were non vine reviews. The total number of five star reviews were 32,804.
 
 # How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-As mentioned above there were 32,804 five star reviews out of which, 139 were vine reviews and a significant 32,665 were non-vine.
+As mentioned above there were 32,804 five star reviews out of which, 133 were vine reviews and a significant 31,806 were non-vine.
 
-<img width="872" alt="five-paid-unpaid" src="https://user-images.githubusercontent.com/86980240/146650152-3c9bd38d-cee1-42d0-8898-f28d08561ee7.png">
+<img width="666" alt="five-paid-unpaid" src="https://user-images.githubusercontent.com/86980240/146652463-cbaf547c-ceca-4793-9499-4f53d034ae0a.png">
 
 # What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-<img width="874" alt="percent" src="https://user-images.githubusercontent.com/86980240/146650186-669bc543-b075-45ed-ad26-eb5afa7db600.png">
+<img width="659" alt="PCT" src="https://user-images.githubusercontent.com/86980240/146652485-23eac740-9a0e-4faf-8f94-72894ed0af6a.png">
 
-There were 0.42% vine reviews and 99.58% non-vine reviews.
+There were 39.82% vine reviews and 51.62% non-vine reviews.
 
