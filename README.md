@@ -18,7 +18,7 @@ After we transform filtered data further we find following outcomes.
 <img width="615" alt="total1st" src="https://user-images.githubusercontent.com/86980240/146652411-3b12c700-c53e-4829-afbe-7dde7553a0f8.png">
 <img width="562" alt="vine_nonvine" src="https://user-images.githubusercontent.com/86980240/146652430-f126a42a-57ca-4eb7-9c24-ab2b0af71af7.png">
 
-There were a total of 61,948 reviews on sports products. Out of those, only 334 were vine reviews and 61,614 were non vine reviews. The total number of five star reviews were 32,804.
+There were a total of 61,948 reviews on sports products. Out of those, only 334 were vine reviews and 61,614 were non vine reviews. The total number of five star reviews were 31,939.
 
 # How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
